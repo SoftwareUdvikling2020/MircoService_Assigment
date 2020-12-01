@@ -1,5 +1,7 @@
 # MircoService_Assigment
 
+This is our microservice for car ratings as described in task 1. It works together with the other car projects that Dora provided. 
+
 
 ### Deployment on Kubernetes
 We are using Kubernetes via Docker Desktop. 
